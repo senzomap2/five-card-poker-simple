@@ -7,7 +7,7 @@ In this library, 5 of a kind is not available as the wild-card is not available
 In this library, 3 of a kind is split to SET and WHEEL
 
 ## Straight Flush Split
-In this library, Straight Flush can either be: Straight Flush/Straight Flush Wheel/Royal Flush
+In this library, Straight Flush can either be: Straight Flush/Straight Flush Wheel/Royal Flush with different ranks.
 
-# To Build and Run
+## To Build and Run
 <code>sh run.sh</code>
